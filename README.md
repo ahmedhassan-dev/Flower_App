@@ -1,16 +1,16 @@
-# ecommerce_app
+# Ecommerce App
 
-A new Flutter project.
+### I implemented this project when taking this course in Udemy:
+https://www.udemy.com/course/the-complete-flutter-dart-firebase-full-course/
 
-## Getting Started
+## What Firebase features are implemented?
+1. Firebase Authentication
+    - Email based sign up/in
+    - Google Sign in
+2. Cloud Firestore
+3. Provider State management
+4. Firebase Storage
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![drawing](https://github.com/ahmedhassan-dev/Flower_App/assets/62114128/7803e7a0-11a5-446e-8fbf-1438c939a9bb)
